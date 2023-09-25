@@ -1,38 +1,55 @@
-# Data Science
-numpy
-pandas
-scikit-learn
+####################
+### DATA SCIENCE ###
+####################
+numpy           # NumPy: supporto per array e matrici numeriche grandi e multi-dimensionali
+pandas          # pandas: struttura dati di serie temporali e strumenti di analisi dei dati
+polars          # polars: una libreria DataFrame veloce e leggera
+scikit-learn    # scikit-learn: strumenti per l'apprendimento automatico e l'analisi dei dati
 
-# Data Visualization
-matplotlib
-seaborn
-altair
+##########################
+### DATA VISUALIZATION ###
+##########################
+matplotlib      # Matplotlib: una libreria per creare visualizzazioni statiche, animate e interattive in Python
+seaborn         # Seaborn: una libreria di visualizzazione dati basata su matplotlib per la creazione di grafici statistici attraenti
+altair          # Altair: una libreria di visualizzazione dati dichiarativa per creare grafici interattivi
 
-# Google Cloud
-google-api-python-client
-oauth2client
-google-cloud-bigquery
-pyarrow
-google-cloud-storage
+####################
+### GOOGLE CLOUD ###
+####################
+google-api-python-client    # Client Library di Google per accedere alle API di Google, incluso Google Cloud
+oauth2client                # Libreria cliente per OAuth 2.0, utile per l'autenticazione con i servizi di Google
+google-cloud-bigquery       # Client Library per Google BigQuery, utile per l'interrogazione di grandi set di dati
+pyarrow                     # Apache Arrow, una libreria per dati in colonna ottimizzata per l'uso con pandas, NumPy, e Google BigQuery
+google-cloud-storage        # Client Library per Google Cloud Storage, permette operazioni CRUD su bucket e oggetti in GCS
 
-# Sviluppo
-gunicorn
-Flask
-pydantic
-gradio
+#######################
+### WEB DEVELOPMENT ###
+#######################
+gunicorn        # Gunicorn: un server HTTP WSGI per servire applicazioni Python in produzione
+Flask           # Flask: un micro framework web per sviluppare applicazioni web in Python
+pydantic        # Pydantic: una libreria per la validazione dei dati e la definizione dei modelli usando Python type annotations
+gradio          # Gradio: una libreria per creare UI veloci per modelli di machine learning e altre funzioni Python
 
-# Connessioni
-mysql-connector-python
+#######################
+### DATA CONNECTORS ###
+#######################
+mysql-connector-python    # Connettore MySQL per Python: una libreria per connettere Python a database MySQL
+psycopg2                  # Psycopg2: un adattatore di database PostgreSQL per Python
 
-# Language Models
-openai
-chromadb
-langchain
-tiktoken
-tokenizers
-transformers
+#############################
+### LARGE LANGUAGE MODELS ###
+#############################
+openai                   # Libreria client OpenAI: permette di interagire con i modelli di linguaggio di OpenAI, come GPT-3 e GPT-4
+chromadb                 # ChromeDB
+langchain                # LangChain: gestisce catene di linguaggio o processamento del linguaggio naturale
+tiktoken                 # TikToken: una libreria da OpenAI per contare i token nei testi senza fare una chiamata API
+tokenizers               # Tokenizers: una libreria per tokenizzare testi, utilizzata spesso in contesti di NLP (Natural Language Processing)
+transformers             # Transformers: una libreria di Hugging Face per modelli di trasformatori, come BERT e GPT, utilizzata in task di NLP
 
-# Vari ed Eventuali
-requests
-emoji
-beautifulsoup4
+###############
+### VARIOUS ###
+###############
+requests          # Requests: Libreria per effettuare richieste HTTP in modo semplice e leggibile
+emoji             # Emoji: Libreria per gestire facilmente le emoji in Python, permette di aggiungere supporto per le emoji nelle tue applicazioni Python
+beautifulsoup4    # BeautifulSoup4: Libreria per estrarre dati da documenti HTML e XML, comunemente usata per lo scraping web
+
