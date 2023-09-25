@@ -1,0 +1,39 @@
+# Data Science
+numpy
+pandas
+scikit-learn
+
+# Data Visualization
+matplotlib
+seaborn
+altair
+
+# Google Cloud
+google-api-python-client
+oauth2client
+google-cloud-bigquery
+pyarrow
+google-cloud-storage
+
+# Sviluppo
+gunicorn
+Flask
+pydantic
+gradio
+
+# Connessioni
+mysql-connector-python
+
+# Language Models
+openai
+chromadb
+langchain
+tiktoken==0.4.0
+tokenizers==0.13.3
+transformers
+
+# Vari ed Eventuali
+requests
+emoji
+beautifulsoup4
+

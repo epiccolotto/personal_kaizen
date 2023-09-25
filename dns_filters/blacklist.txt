@@ -1,0 +1,12 @@
+||guzzoni.apple.com^
+||cp.dyson.com^
+||*.cp.dyson.com^
+||gfwsl.geforce.com^
+||gfe.geforce.com^
+||telemetry.nvidia.com^
+||gfe.nvidia.com^
+||telemetry.gfe.nvidia.com^
+||events.gfe.nvidia.com^
+||ssl.google-analytics.com^
+||nvidia.tt.omtrdc.net^
+||services.gfe.nvidia.com^
