@@ -28,12 +28,11 @@ mysql-connector-python
 openai
 chromadb
 langchain
-tiktoken==0.4.0
-tokenizers==0.13.3
+tiktoken
+tokenizers
 transformers
 
 # Vari ed Eventuali
 requests
 emoji
 beautifulsoup4
-
