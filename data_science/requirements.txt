@@ -52,4 +52,3 @@ gradio                      # Gradio: una libreria per creare UI veloci per mode
 requests                    # Requests: Libreria per effettuare richieste HTTP in modo semplice e leggibile
 emoji                       # Emoji: Libreria per gestire facilmente le emoji in Python, permette di aggiungere supporto per le emoji nelle tue applicazioni Python
 beautifulsoup4              # BeautifulSoup4: Libreria per estrarre dati da documenti HTML e XML, comunemente usata per lo scraping web
-

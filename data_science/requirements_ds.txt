@@ -21,9 +21,16 @@ vaex              # Libreria per la manipolazione di DataFrame di grandi dimensi
 ########################
 scikit-learn      # Libreria per algoritmi di apprendimento automatico e analisi dei dati
 xgboost           # Libreria per l'implementazione di algoritmi di boosting
-prophet           # Libreria per la previsione di serie storiche a livello di mercato
 scipy             # Libreria per la scienza e l'ingegneria, utile per l'analisi scientifica dei dati
 statsmodels       # Libreria per la stima di modelli statistici
+
+##################################
+### FORECASTING AND MMM MODELS ###
+##################################
+prophet           # Libreria per la previsione di serie storiche a livello di mercato
+orbit             # Orbit: una libreria di Uber per modelli Bayesiani per la previsione di serie temporali
+LightweightMMM    # LightweightMMM: una libreria per la creazione di modelli misti di marketing
+nevergrad         # Libreria per l'ottimizzazione derivata-libera, sviluppata da Facebook AI Research
 
 #####################
 ### DEEP LEARNING ###
