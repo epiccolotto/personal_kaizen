@@ -1,0 +1,49 @@
+##########################
+### DATA VISUALIZATION ###
+##########################
+matplotlib        # Libreria per la creazione di grafici statici, animati e interattivi in Python
+seaborn           # Libreria basata su matplotlib per la creazione di grafici statistici attraenti
+altair            # Libreria per la creazione di grafici interattivi e dichiarativi
+graphviz          # Strumento per la visualizzazione di grafi
+plotly            # Libreria per la creazione di grafici interattivi
+
+#########################
+### DATA MANIPULATION ###
+#########################
+numpy             # Libreria per il supporto di array e matrici numeriche grandi e multi-dimensionali
+pandas            # Libreria per la manipolazione e l'analisi di dati in forma tabellare
+polars            # polars: una libreria DataFrame veloce e leggera
+dask              # Libreria per il calcolo parallelo e distribuito
+vaex              # Libreria per la manipolazione di DataFrame di grandi dimensioni
+
+########################
+### MACHINE LEARNING ###
+########################
+scikit-learn      # Libreria per algoritmi di apprendimento automatico e analisi dei dati
+xgboost           # Libreria per l'implementazione di algoritmi di boosting
+prophet           # Libreria per la previsione di serie storiche a livello di mercato
+scipy             # Libreria per la scienza e l'ingegneria, utile per l'analisi scientifica dei dati
+statsmodels       # Libreria per la stima di modelli statistici
+
+#####################
+### DEEP LEARNING ###
+#####################
+tensorflow        # Framework open-source di apprendimento profondo
+keras             # API di alto livello per la creazione e l'addestramento di modelli di deep learning
+pytorch           # Libreria di apprendimento profondo sviluppata da Facebook AI Research Lab
+neuralprophet     # Versione avanzata di Prophet che supporta reti neurali
+
+###################################
+### NATURAL LANGUAGE PROCESSING ###
+###################################
+nltk              # Natural Language Toolkit, libreria per lavorare con il linguaggio umano
+spacy             # Libreria avanzata per il processamento del linguaggio naturale
+
+########################
+### NETWORK ANALYSIS ###
+########################
+networkx              # Libreria per la creazione, la manipolazione e lo studio di strutture complesse di reti
+graph-tool            # Libreria Python per la manipolazione e lo studio di grafi
+igraph                # Libreria per la creazione e l'analisi di reti
+pyvis                 # Libreria per la visualizzazione interattiva di reti
+snap-stanford         # SNAP for C++ e PySnap, librerie per l'analisi di reti in larga scala, da Stanford
