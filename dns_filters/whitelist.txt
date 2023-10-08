@@ -7,3 +7,6 @@
 @@||launchercontent.mojang.com^
 @@||g.live.com^
 @@||skydrive.wns.windows.com^
+@@||*.twingate.com^
+@@||*.3plearning.com^
+@@||*.mathletics.com^
