@@ -10,3 +10,6 @@
 ||ssl.google-analytics.com^
 ||nvidia.tt.omtrdc.net^
 ||services.gfe.nvidia.com^
+||*.bing.com^
+
+
