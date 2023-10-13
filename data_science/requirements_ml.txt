@@ -16,6 +16,13 @@ polars            # polars: una libreria DataFrame veloce e leggera
 dask              # Libreria per il calcolo parallelo e distribuito
 vaex              # Libreria per la manipolazione di DataFrame di grandi dimensioni
 
+#######################
+### DATA CONNECTORS ###
+#######################
+mysql-connector-python      # Connettore MySQL per Python: una libreria per connettere Python a database MySQL
+psycopg2-binary             # Psycopg2: un adattatore di database PostgreSQL per Python
+pymongo                     # Connettore per MongoDB in Python
+
 ########################
 ### MACHINE LEARNING ###
 ########################
