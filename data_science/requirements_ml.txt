@@ -22,6 +22,7 @@ vaex              # Libreria per la manipolazione di DataFrame di grandi dimensi
 mysql-connector-python      # Connettore MySQL per Python: una libreria per connettere Python a database MySQL
 psycopg2-binary             # Psycopg2: un adattatore di database PostgreSQL per Python
 pymongo                     # Connettore per MongoDB in Python
+sqlalchemy                  # SQLAlchemy è un toolkit SQL e Object-Relational Mapping (ORM) per Python.
 
 ########################
 ### MACHINE LEARNING ###
@@ -61,3 +62,8 @@ graph-tool            # Libreria Python per la manipolazione e lo studio di graf
 igraph                # Libreria per la creazione e l'analisi di reti
 pyvis                 # Libreria per la visualizzazione interattiva di reti
 snap-stanford         # SNAP for C++ e PySnap, librerie per l'analisi di reti in larga scala, da Stanford
+
+###############
+### VARIOUS ###
+###############
+pendulum                    # Pendulum è una libreria Python estesa per la manipolazione di date e orari. 
