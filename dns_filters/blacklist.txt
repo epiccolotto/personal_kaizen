@@ -43,3 +43,10 @@
 ||*.chartbeat.com^
 ||*.doubleclick.net^
 ||*.statsigapi.net^
+||*.ttvnw.net^
+||*.tradelab.fr^
+||*.ebxcdn.com^
+||*.cloudfront.net^
+||*.pghub.io^
+||*.scorecardresearch.com^
+||*.imrworldwide.com^

@@ -3,10 +3,13 @@
 @@||lycraservice-pa.googleapis.com^
 @@||login.live.com^
 @@||signup.live.com^
-@@||launcher.mojang.com^
-@@||launchercontent.mojang.com^
+@@||*.mojang.com^
 @@||g.live.com^
 @@||skydrive.wns.windows.com^
 @@||*.twingate.com^
 @@||*.3plearning.com^
 @@||*.mathletics.com^
+@@||*.cloudflare.com^
+
+
+
