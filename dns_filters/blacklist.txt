@@ -28,6 +28,7 @@
 ||*tinypass.com^
 ||*.hotjar.com^
 ||*aswpsdkeu.com^
+||*.aswpsdkeu.com^
 ||*.imrworldwide.com^
 ||*.brandmetrics.com^
 ||*.confiant-integrations.net^
