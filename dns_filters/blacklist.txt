@@ -35,8 +35,6 @@
 ||*.insurads.com^
 ||*.permutive.app^
 ||*.rcsmetrics.it^
-||*.rcsobjects.it^
-||*.corriereobjects.it^
 ||*.demdex.net^
 ||*.tncid.app^
 ||*.crazyegg.com^
