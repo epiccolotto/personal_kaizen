@@ -3,13 +3,12 @@
 ||*.cp.dyson.com^
 ||gfwsl.geforce.com^
 ||gfe.geforce.com^
+||*.gfe.geforce.com^
 ||telemetry.nvidia.com^
 ||gfe.nvidia.com^
-||telemetry.gfe.nvidia.com^
-||events.gfe.nvidia.com^
+||*.gfe.nvidia.com^
 ||ssl.google-analytics.com^
 ||nvidia.tt.omtrdc.net^
-||services.gfe.nvidia.com^
 ||*.bing.com^
 ||*.piano.io^
 ||*.tinypass.com^
