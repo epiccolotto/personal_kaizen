@@ -11,7 +11,6 @@
 ||*.rubiconproject.com^
 ||*.doubleverify.com^
 ||*tinypass.com^
-||*.hotjar.com^
 ||*aswpsdkeu.com^
 ||*.aswpsdkeu.com^
 ||*.imrworldwide.com^
@@ -23,16 +22,14 @@
 ||*.rcsmetrics.it^
 ||*.demdex.net^
 ||*.tncid.app^
-||*.crazyegg.com^
 ||*.mrf.io^
 ||*.chartbeat.com^
 ||*.doubleclick.net^
 ||*.g.doubleclick.net/pcs/^
 ||*.statsigapi.net^
-||*.ttvnw.net^
 ||*.tradelab.fr^
 ||*.ebxcdn.com^
-||*.cloudfront.net^
+! ||*.cloudfront.net^
 ||*.pghub.io^
 ||*.scorecardresearch.com^
 ||*.imrworldwide.com^

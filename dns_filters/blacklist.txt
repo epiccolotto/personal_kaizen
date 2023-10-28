@@ -11,3 +11,9 @@
 ||nvidia.tt.omtrdc.net^
 ||*.bing.com^
 ||*.piano.io^
+! Ultima Aggiunta
+||*.jtvnw.net^
+||*.ttvnw.net^
+! Heatmaps
+||*.hotjar.com^
+||*.crazyegg.com^
