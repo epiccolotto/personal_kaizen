@@ -18,7 +18,6 @@
 ||*.parsely.com^
 ||*.parse.ly^
 ||*.btloader.com^
-||*.amazon-adsystem.com^
 ||*.concert.io^
 ||*.permutive.com^
 ||*.indexww.com^
