@@ -1,22 +1,25 @@
-! Lavoro
-@@||*.italiaonline.it^
-@@||*.canva.com^
+! LAVORO
+@@||italiaonline.it^
+@@||canva.com^
+
+! INTERNET OF THINGS
 @@||lycraservice-pa.googleapis.com^
 
-! Gaming XBOX
+! GAMING XBOX
 @@||login.live.com^
 @@||signup.live.com^
-@@||*.mojang.com^
+@@||mojang.com^
 @@||g.live.com^
 @@||skydrive.wns.windows.com^
 
-! Servizi
-@@||*.twingate.com^
-@@||*.cloudflare.com^
+! SERVICES
+@@||twingate.com^
+@@||cloudflare.com^
 
-! Scuola
-@@||*.3plearning.com^
-@@||*.mathletics.com^
+! SCHOOL
+@@||3plearning.com^
+@@||mathletics.com^
 
-! Amazon CDN
-@@||*.cloudfront.net
+! AMAZON CDN
+@@||cloudfront.net^
+

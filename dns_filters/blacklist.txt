@@ -2,16 +2,12 @@
 ||guzzoni.apple.com^
 
 ! INTERNET OF THINGS
-||cp.dyson.com^
 ||*.cp.dyson.com^
 
 ! NVIDIA
 ||gfwsl.geforce.com^
-||gfe.geforce.com^
 ||*.gfe.geforce.com^
 ||telemetry.nvidia.com^
-||gfe.nvidia.com^
-||*.gfe.nvidia.com^
 ||nvidia.tt.omtrdc.net^
 
 ! HEATMAPS
