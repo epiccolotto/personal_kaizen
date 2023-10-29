@@ -1,11 +1,9 @@
-||*.tinypass.com^
 ||*.narrativ.com^
 ||*.moatads.com^
 ||*.sail-horizon.com^
 ||*.parsely.com^
 ||*.parse.ly^
 ||*.btloader.com^
-||*.concert.io^
 ||*.permutive.com^
 ||*.indexww.com^
 ||*.rubiconproject.com^
@@ -23,13 +21,9 @@
 ||*.demdex.net^
 ||*.tncid.app^
 ||*.mrf.io^
-||*.chartbeat.com^
 ||*.doubleclick.net^
 ||*.g.doubleclick.net/pcs/^
 ||*.statsigapi.net^
-||*.tradelab.fr^
 ||*.ebxcdn.com^
-! ||*.cloudfront.net^
 ||*.pghub.io^
-||*.scorecardresearch.com^
 ||*.imrworldwide.com^

@@ -1,19 +1,35 @@
+! APPLE
 ||guzzoni.apple.com^
+
+! INTERNET OF THINGS
 ||cp.dyson.com^
 ||*.cp.dyson.com^
+
+! NVIDIA
 ||gfwsl.geforce.com^
 ||gfe.geforce.com^
 ||*.gfe.geforce.com^
 ||telemetry.nvidia.com^
 ||gfe.nvidia.com^
 ||*.gfe.nvidia.com^
-||ssl.google-analytics.com^
 ||nvidia.tt.omtrdc.net^
-||*.bing.com^
-||*.piano.io^
-! Ultima Aggiunta
-||*.jtvnw.net^
-||*.ttvnw.net^
-! Heatmaps
+
+! HEATMAPS
 ||*.hotjar.com^
 ||*.crazyegg.com^
+
+! ANALYTICS
+||ssl.google-analytics.com^
+||*.piano.io^
+||*.chartbeat.com^
+||*.bing.com^
+||*.tradelab.fr^
+||*.scorecardresearch.com^
+
+! ADVERTISING
+||*.concert.io^
+
+! SUSPICIOUS
+||*.jtvnw.net^
+||*.ttvnw.net^
+||*.tinypass.com^
