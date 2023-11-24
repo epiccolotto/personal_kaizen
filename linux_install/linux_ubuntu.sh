@@ -27,13 +27,10 @@ git clone https://github.com/atar-axis/xpadneo.git
 sudo sh ./xpadneo/install.sh
 sudo rm -r xpadneo
 
-####################
-### DATA SCIENCE ###
-####################
-sudo pip3 install --upgrade pip
-sudo wget https://raw.githubusercontent.com/epiccolotto/personal_kaizen/main/data_science/requirements_dev.txt
-sudo pip3 install -r requirements_dev.txt
-sudo rm requirements_dev.txt
+##################################
+### DIPENDENZE PER VENV PYTHON ###
+##################################
+sudo apt -y install python3.11-venv
 
 ##################################
 ### PACCHETTI DI INSTALLAZIONE ###
