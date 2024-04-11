@@ -29,14 +29,3 @@ scikit-learn                # Libreria per algoritmi di apprendimento automatico
 xgboost                     # Libreria per l'implementazione di algoritmi di boosting
 scipy                       # Libreria per la scienza e l'ingegneria, utile per l'analisi scientifica dei dati
 statsmodels                 # Libreria per la stima di modelli statistici
-lightweight-mmm             # Libreria per il Marketing Mix Model
-
-#####################
-### DEEP LEARNING ###
-#####################
-tensorflow                  # Libreria per il Deep Learning
-
-###############
-### VARIOUS ###
-###############
-pendulum                    # Pendulum è una libreria Python estesa per la manipolazione di date e orari. 
