@@ -1,5 +1,4 @@
 ! LAVORO
-@@||italiaonline.it^
 @@||canva.com^
 
 ! INTERNET OF THINGS
@@ -15,6 +14,8 @@
 ! SERVICES
 @@||twingate.com^
 @@||cloudflare.com^
+@@||gennaro.cc^
+@@||gamers.it^
 
 ! SCHOOL
 @@||3plearning.com^
